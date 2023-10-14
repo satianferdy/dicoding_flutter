@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+StatelessWidget dan StatefulWidget
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
